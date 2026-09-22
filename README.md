@@ -8,8 +8,7 @@ I am a backend developer based in **Norway**, with **3 years of experience** bui
 ### 🛠️ Professional Tech Stack
 
 #### 💻 Backend Development
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript]
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-00AABB?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-00AABB?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 #### 📊 Databases & Data
 ![MongoDB](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Aggregation](https://img.shields.io/badge/Aggregation-Pipelines-FFAA00?style=for-the-badge)
